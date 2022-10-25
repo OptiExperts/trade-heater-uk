@@ -375,7 +375,7 @@ var _0x5349=['platform','classList','createElement','attributes','No-optimizatio
       {% include 'icon-chevron-up' %}
       </a>
      {%- if settings.predictive_search_enabled -%}
-      <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
+      <script type="lazyload2" data-src=""{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
        {% render 'sca-quick-view-template' %}   
      {%- render '__footerhash' -%}
