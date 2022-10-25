@@ -257,6 +257,16 @@ var _0x5349=['platform','classList','createElement','attributes','No-optimizatio
       background-color: var(--color-base-background-1);
       }
       {% endstyle %}
+
+    {%- render '__home-css' -%}
+    {% elsif template contains 'product' %}
+    {%- render '__product-css' -%}
+    {% elsif template contains 'collection' %}
+    {%- render '__collection-css' -%}
+    {% else %}
+    <link rel="stylesheet" href="{{ 'base.css' | asset_url }}">
+    {% endif %}
+
       <link rel="stylesheet" data-href="{{ 'base.css' | asset_url }}">
       {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
