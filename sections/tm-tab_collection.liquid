@@ -88,13 +88,13 @@
                              										</div>
                             										
                                  									<div class="product-hover">
-                                                                  
+                                                                  <h1>This is a test</h1>
                                                                             <div class="quick-view-button"><a class="quick-view cm-link btn--status" data-handle="{{ product.handle }}" href="javascript:void(0);">{% render 'icon-quickview' %}</a></div>
                                                                       	<div data-js-product data-product-handle="{{ product.handle }}"
                                                                           data-product-variant-id="{{ product.selected_or_first_available_variant.id }}">
                                                                           		<a class="cm-link btn--status js-store-lists-add-wishlist"
                                                                           			{% unless product.selected_or_first_available_variant.available %}disabled="disabled"{% endunless %} >
-                                                                         			<span>{% render 'icon-cmheart' %}</span>
+                                                                         			<span>{% render 'icon-cmheart-header' %}</span>
                                                                          			<span data-button-content="added">{% render 'icon-solidheart' %}</span>
                                                                           		</a>
                                                                         		<a class="cm-link btn--status js-store-lists-add-compare"
