@@ -1,0 +1,58 @@
+.list-menu--right {
+  right: 0;
+}
+.sub-mega {
+	position: absolute;
+	left: auto;
+	right: auto;
+}
+.list-menu--disclosure {
+
+  	display: none;
+}
+.header__submenu.list-menu li {
+	float: left;
+	width: 165px;
+	text-align: left;
+}
+.header__submenu.list-menu, .more-site-nav .list-menu {
+	overflow: hidden;
+	background-color: #fff;
+}
+.more-site-nav .site-nav__dropdown {
+	position: absolute;
+}
+
+.list-menu--disclosure:focus {
+  outline: none;
+}
+#header-nav li .list-menu.list-menu--disclosure .header__menu-item::after {
+	border: none;
+}
+
+.list-menu__item--active {
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+}
+
+.list-menu--disclosure.localization-selector {
+  max-height: 18rem;
+  overflow: auto;
+  width: 10rem;
+  padding: 0.5rem;
+}
+.list-menu--inline > li:hover .list-menu--disclosure {
+	display: block;
+}
+
+.site-nav__dropdown .header__menu-item {
+	font-weight: 500;
+}
+.site-nav__dropdown .header__menu-item {
+	font-weight: 500;
+	padding: 15px;
+	padding-bottom: 0;
+}
+.site-nav__dropdown li:last-child .header__menu-item {
+	padding-bottom: 15px;
+}

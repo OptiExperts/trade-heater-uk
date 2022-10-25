@@ -1,0 +1,30 @@
+
+.logo-bar__item {
+  list-style: none;
+  display: inline-block;
+  vertical-align: middle
+}
+.logo-bar {
+  padding-left: 0;
+  margin: 0;
+}
+.logo-bar .owl-item {
+  text-align: center;
+}
+.logo-bar__image {
+  max-width: 100%;
+  position: relative;
+  margin: 0 auto;
+  
+}
+.logo-bar .owl-item {
+	padding: 55px 15PX;
+	border-width: 0px 0 1px 0;
+	border-style: solid;
+	border-color: var(--color-base-border);
+}
+@media (max-width: 479px) {
+  .logo-bar {
+    text-align: center;
+  }
+}

@@ -1,0 +1,156 @@
+.servicetop-cms {
+     position: relative;
+     width: 100%;
+     margin: 0 auto;
+     float: left;
+     padding: 40px 0;
+}
+ .service {
+     float: left;
+     width: 25%;
+     position: relative;
+}
+.service:first-child {
+	width: 20%;
+}
+.shopify-section.service-section {
+	margin: 0;
+}
+ .service.service-1 .service-icon{
+   background-position: center 1px;
+ }
+ .service.service-1:hover .service-icon{
+		background-position: center -140px;
+}
+.service.service-3 .service-icon {
+	background-position: center 0;
+}
+.service.service-3:hover .service-icon {
+	background-position: center -141px;
+}
+
+
+ .service.service-4 .service-icon, .service.service-2 .service-icon {
+	background-position: center 0;
+}
+ .service.service-2:hover .service-icon, .service.service-4:hover .service-icon {
+	background-position: center -141px;
+}
+.service-icon {
+	display: block !important;
+	background-repeat: no-repeat;
+	width: 32px;
+	height: 32px;
+	float: left;
+	margin: 0 15px 0 0;
+}
+ .service-description {
+	float: left;
+	margin: 5px 0 0;
+}
+ .service-title {
+	text-transform: capitalize;
+	line-height: 26px;
+	letter-spacing: .4px;
+	font-size: 14px;
+	color: var(--color-base-text);
+}
+
+.service-subtitle {
+	color: rgba(255,255,255,0.6);
+	margin: 0;
+	letter-spacing: .5px;
+	line-height: 26px;
+    float: left;
+}
+ .service-block {
+	position: relative;
+	clear: both;
+	width: 100%;
+	float: left;
+}
+.services-wrapper {
+	position: relative;
+	width: 100%;
+	margin: 0 auto;
+	float: left;
+	padding: 50px 0;
+}
+.services-wrapper .service-block {
+	padding: 0 0 0 60px;
+	border-style: solid;
+	border-width: 0 1px 0 0;
+	border-color: var(--color-base-border);
+}
+.services-wrapper .service:first-child .service-block {
+	padding: 0;
+}
+.service-block.service-block-4 {
+	border: 0;
+}
+ @media screen and (max-width: 1269px) {
+     .service-icon::before {
+         content: none;
+    }
+	.service-description {
+		float: none;
+		text-align: center;
+		padding: 12px 0 0;
+	}
+   .service-icon{
+     text-align: center;
+	margin: 0 auto;
+ 	float: none;
+  }
+     .service-subtitle {
+         float: none;
+    }
+   .services-wrapper .service-block {
+		padding: 0 30px;
+	}
+}
+@media screen and (max-width: 989px) {
+ 
+}
+@media screen and (max-width: 749px) {
+     .service, .service:first-child {
+		width: 50%;
+	}
+  .services-wrapper .service-block {
+		padding: 0;
+	}
+  .services-wrapper {
+		padding: 30px 0;
+	}
+  	.service-block.service-block-3 {
+		padding-left: 0px;
+	}
+  .service-block.service-block-1 {
+		padding-right: 0px;
+	}
+  	.service-block.service-block-2 {
+		border: 0;
+	}
+    .service.service-4, .service.service-3 {
+		padding: 20px 0 0;
+	}
+    .service.service-1, .service.service-2 {
+		padding: 0 0 20px ;
+	}
+}
+ @media screen and (max-width: 479px) {
+     .service, .service:first-child {
+         width: 100%;
+    }
+    .service.service-2, .service.service-3 {
+		padding: 0 0 20px;
+	} 
+    .service.service-3{
+    	 padding: 0 ; 
+    }
+    .services-wrapper .service-block {
+		border: 0;
+	}
+ 
+}
+

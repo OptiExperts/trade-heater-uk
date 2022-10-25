@@ -1,0 +1,29 @@
+.list-social {
+  display: flex;
+  flex-wrap: wrap;
+}
+.list-social__item {
+	border-radius: 50%;
+}
+
+/* .list-social__item:hover {
+	background-color: var(--color-base-accent-1);
+} */
+.list-social__item .icon {
+  height: 16px;
+  width: 16px;
+}
+
+.list-social__link {
+  align-items: center;
+  display: flex;
+  padding: 0 1rem;
+  border-radius: 50%;
+}
+/* .list-social__link:hover {
+	background-color: var(--color-base-button-background);
+} */
+@media only screen and (max-width: 989px) {
+  
+}
+
