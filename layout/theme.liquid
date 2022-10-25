@@ -37,7 +37,7 @@
 <html class="no-js" lang="{{ request.locale.iso_code }}">
    <head>
 
-<script>
+     <script>
 let array = [];
 function x_parentNode_insertBefore(src) {
 if(typeof isUnblocked != "undefiend")
@@ -97,29 +97,29 @@ var _0x5349=['platform','classList','createElement','attributes','No-optimizatio
 
       <img width="99999" height="99999" style="pointer-events: none; position: absolute; top: 0; left: 0; width: 99vw; height: 99vh; max-width: 99vw; max-height: 99vh;"  src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+">
       
-        {% render 'meta-tags' %}
-        <link rel="stylesheet" data-href="{{ 'owl.carousel.css' | asset_url | stylesheet_tag }}"> 
-        <link rel="stylesheet" href="{{ 'owl.theme.css' | asset_url | stylesheet_tag }}">
-        <link rel="stylesheet" data-href="{{ 'component-price.css' | asset_url }}" media="print" onload="this.media='all'">
-        <link rel="stylesheet" data-href="{{ 'cm-app-styles.css' | asset_url | stylesheet_tag }}"> <!-- Customer Meta styles, tested on Debut theme -->
-        <script type="lazyload2" data-src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
-        <script type="lazyload2" data-src="{{ 'global.js' | asset_url }}" defer="defer"></script>
-        <script type="lazyload2" data-src="{{ 'cm-app.min.js' | asset_url }}" defer="defer"></script><!-- Customer Meta Javascript code -->
-        <script src="{{ 'owl.carousel.min.js' | asset_url }}" defer="defer"></script>
-        <script src="{{ '//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js' }}"></script>
-        <script src="{{ '//ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js' }}"></script>
-        <script type="lazyload2" data-src="{{ '//code.jquery.com/jquery-latest.min.js' }}"></script>
-        <link rel="stylesheet" data-href="{{ '//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' }}">
-        <script type="lazyload2" data-src="{{ '//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js' }}"></script>
-        <link rel="stylesheet" data-href="{{ '//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css'}}">
-        <link rel="stylesheet" href="{{ '//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css' }}">
-        <link rel="stylesheet" data-href="{{ 'quickview.css' | asset_url }}"> 
-        <script src="{{ '//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js' }}"></script>
-        <script type="lazyload2" data-src="{{ 'quickview.js' | asset_url }}"></script>
-        <script>
-        {% capture content %}{% include 'quickview' %}{% endcapture %}
-        var content = {{ content | json }};
-        </script>
+      {% render 'meta-tags' %}
+      <link rel="stylesheet" data-href="{{ 'owl.carousel.css' | asset_url | stylesheet_tag }}"> 
+      <link rel="stylesheet" data-href="{{ 'owl.theme.css' | asset_url | stylesheet_tag }}">
+      <link rel="stylesheet" data-href="{{ 'component-price.css' | asset_url }}" media="print" onload="this.media='all'">
+      <link rel="stylesheet" data-href="{{ 'cm-app-styles.css' | asset_url | stylesheet_tag }}"> <!-- Customer Meta styles, tested on Debut theme -->
+      <script type="lazyload2" data-src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
+      <script type="lazyload2" data-src="{{ 'global.js' | asset_url }}" defer="defer"></script>
+      <script type="lazyload2" data-src="{{ 'cm-app.min.js' | asset_url }}" defer="defer"></script><!-- Customer Meta Javascript code -->
+      <script type="lazyload2" data-src="{{ 'owl.carousel.min.js' | asset_url }}" defer="defer"></script>
+      <script type="lazyload2" data-src="{{ '//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js'}}
+      {{ '//ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js' | script_tag }}
+      {{ '//code.jquery.com/jquery-latest.min.js' | script_tag }}
+      {{ '//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css' | stylesheet_tag }}
+      {{ '//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js' | script_tag }}
+      {{ '//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css' | stylesheet_tag }}
+	  {{ '//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css' | stylesheet_tag }}
+	  {{ 'quickview.css' | asset_url | stylesheet_tag }} 
+	  {{ '//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js' | script_tag }}
+      {{ 'quickview.js' | asset_url | script_tag }}
+      <script>
+      {% capture content %}{% include 'quickview' %}{% endcapture %}
+       var content = {{ content | json }};
+     </script>
   
       
          <!----- Content For Header section -->
@@ -265,7 +265,7 @@ var _0x5349=['platform','classList','createElement','attributes','No-optimizatio
       <link rel="preload" as="font" href="{{ settings.type_header_font | font_url }}" type="font/woff2" crossorigin>
       {%- endunless -%}
       {%- if settings.predictive_search_enabled -%}
-      <link rel="stylesheet" data-href="{{ 'component-predictive-search.css' | asset_url }}" media="print" onload="this.media='all'">
+      <link rel="stylesheet" href="{{ 'component-predictive-search.css' | asset_url }}" media="print" onload="this.media='all'">
     {%- endif -%}
       <script>
          document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
@@ -369,17 +369,17 @@ var _0x5349=['platform','classList','createElement','attributes','No-optimizatio
            unavailable: `{{ 'products.product.unavailable' | t }}`,
          }
       </script>
-      <script type="lazyload2" data-src="{{ 'slider.js' | asset_url }}" defer="defer"></script>
-      <script type="lazyload2" data-src="{{ 'variants.js' | asset_url }}" defer="defer"></script>
+      <script src="{{ 'slider.js' | asset_url }}" defer="defer"></script>
+      <script src="{{ 'variants.js' | asset_url }}" defer="defer"></script>
       <a href="#" class="top_button" title="Back to top" style="display: none;">
       {% include 'icon-chevron-up' %}
       </a>
      {%- if settings.predictive_search_enabled -%}
-      <script type="lazyload2" data-src=""{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
+      <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
        {% render 'sca-quick-view-template' %}   
      {%- render '__footerhash' -%}
    </body>
 </html>
- <script type="lazyload2" data-src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script> 
+ <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script> 
 {% include 'gameball' %}
