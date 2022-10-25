@@ -1,1 +1,225 @@
-{"current":{"rating_filled":"#ffcc00","Hideshowbar":true,"hidepreloader":true,"spinner":"shopify:\/\/shop_images\/loading-gif.gif","predictive_search_show_vendor":false,"predictive_search_show_price":true,"favicon":"shopify:\/\/shop_images\/Excavator_Machinery_Logo_500_x_200px_500_x_501px.png","hidebreadcrumb":false,"breadcrumb_img":"shopify:\/\/shop_images\/02_cf17c76e-4c69-4e7d-b68e-bbf9de91c212.jpg","button_text":"#49484f","button_text_hover":"#49484f","button_background":"#ffcc00","button_background_hover":"#ffcc00","colors_accent_1":"#ffcc00","colors_accent_2":"#49484f","colors_accent_3":"#49484f","colors_banner_text":"#fafafa","colors_border":"#dddddd","colors_text":"#49484f","colors_background_1":"#fafafa","type_header_font":"roboto_n4","type_body_font":"roboto_n4","social_twitter_link":"#","social_facebook_link":"#","social_pinterest_link":"#","social_instagram_link":"#","social_youtube_link":"#","social_vimeo_link":"","checkout_logo_position":"left","checkout_body_background_color":"#ffffff","checkout_accent_color":"#ffffff","checkout_button_color":"#1e1e1e","sale_badge_color_scheme":"accent-1","accent_icons":"text","colors_background_2":"#1b1a1c","colors_solid_button_labels":"#000000","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"88bfe275-06e4-43d5-97a5-eee285e77ab6":{"type":"announcement","settings":{"text":"Free Shipping On All Order Over £100 Code : NEW1","link":"shopify:\/\/collections","enable_country_selector":true,"enable_language_selector":true,"menu_bar":"header-menu","bg_color":"#ffffff","text_color":"#666666"}}},"block_order":["88bfe275-06e4-43d5-97a5-eee285e77ab6"],"settings":{"top_banner":true,"banner":"shopify:\/\/shop_images\/KEEP_WARM_THIS_WINTER_8.png"}},"header":{"type":"header","blocks":{"f2d1d5a0-ce85-443f-9b6a-a8b2bc50b11c":{"type":"service_image","settings":{"icon":"shopify:\/\/shop_images\/phone.png","service-subtitle":"<p>0161 706 0487<\/p>","button_link":"#"}}},"block_order":["f2d1d5a0-ce85-443f-9b6a-a8b2bc50b11c"],"settings":{"logo":"shopify:\/\/shop_images\/ShopHeatersLogo.png","logo_width":250,"logo_position":"top-center","show_sidecategory":true,"categories_title":"Shop By Category","side-categories":"sidebar","menu":"main-menu","account-subtitle":"<p>Sign In<br\/>& Join Free<\/p>","wishlist_title":"Wishlist","compare_title":"Compare","bg_color":"#002230","text_color":"#ffcc00"}},"footer":{"type":"footer","blocks":{"a333c221-3fca-4fe3-afa0-9a49124f1273":{"type":"text","settings":{"heading":"Contact Us","address":"Trade Heaters UK, Unit 15a,Summers Road, Liverpool, L3 4BL, United Kingdom","email_address":"sales@TradeHeatersUK.co.uk","email":"mailto:tradeheatersuk@gmail.com","contact_num":"0161 706 0487"}},"98abf57c-2742-4474-a54c-9a22fa700a05":{"type":"link_list","disabled":true,"settings":{"heading":"Information","menu":""}},"b65a0ef2-f918-4cce-bccb-1cb2697943d8":{"type":"link_list","settings":{"heading":"Quick links","menu":"footer-menu"}},"acfd6df7-b690-4684-ba32-37782291ad32":{"type":"text","disabled":true,"settings":{"heading":"Company Info","address":"","email_address":"","email":"","contact_num":""}}},"block_order":["a333c221-3fca-4fe3-afa0-9a49124f1273","98abf57c-2742-4474-a54c-9a22fa700a05","b65a0ef2-f918-4cce-bccb-1cb2697943d8","acfd6df7-b690-4684-ba32-37782291ad32"],"settings":{"bg_color":"#002230","text_color":"#e8e8e8","app_title":"Download Apps","app_link_1":"#","app_link_2":"#","app_link_3":"#","payment_enable":true}},"tm-sidebar":{"type":"tm-sidebar","settings":{"show_sidecategory":true,"categories_title":"Product Categories","side-categories":"main-menu","show_blog_sidecategory":true,"blog_categories_title":"Blog menu","blog-categories":"blog-menu","enable_filtering":true}},"tm_cms_info":{"type":"tm_cms_info","blocks":{"36ede7ce-9230-475f-becd-36b042de7725":{"type":"info_image","settings":{"info-title":"Our Address","info-subtitle":"12, Lorem Ipsum Amet, Australiya 395"}},"2c3b1cd9-f6ae-45a3-af6e-ced9f4b1a080":{"type":"info_image","settings":{"info-title":"Call Us Free","info-subtitle":"(+12) 345 7800 20 \/ 123 6666 789"}},"e75dcab9-7376-4dd5-a866-24ae6c6bb0df":{"type":"info_image","settings":{"info-title":"Send Email Now","info-subtitle":"support.information@company.com"}}},"block_order":["36ede7ce-9230-475f-becd-36b042de7725","2c3b1cd9-f6ae-45a3-af6e-ced9f4b1a080","e75dcab9-7376-4dd5-a866-24ae6c6bb0df"],"settings":{"bg_color":"#7a8757"}},"newsletter":{"type":"newsletter","blocks":{"335ca43b-0aed-4580-a4d0-159352fa0c10":{"type":"heading","settings":{"heading":"Subscribe To The Newsletter"}},"45a02dcf-29b3-4454-8ea8-29282ccee236":{"type":"email_form","settings":{}}},"block_order":["335ca43b-0aed-4580-a4d0-159352fa0c10","45a02dcf-29b3-4454-8ea8-29282ccee236"],"settings":{"bg_color":"#002230","show_social":true}}},"content_for_index":[]}}
+{
+  "current": {
+    "rating_filled": "#ffcc00",
+    "Hideshowbar": true,
+    "hidepreloader": true,
+    "spinner": "shopify:\/\/shop_images\/Excavator_Machinery_Logo_500_x_200px_500_x_501px_750_x_500px_500_x_300px.png",
+    "predictive_search_show_vendor": false,
+    "predictive_search_show_price": true,
+    "favicon": "shopify:\/\/shop_images\/Excavator_Machinery_Logo_500_x_200px_500_x_501px.png",
+    "hidebreadcrumb": false,
+    "breadcrumb_img": "shopify:\/\/shop_images\/02_cf17c76e-4c69-4e7d-b68e-bbf9de91c212.jpg",
+    "button_text": "#49484f",
+    "button_text_hover": "#49484f",
+    "button_background": "#ffcc00",
+    "button_background_hover": "#ffcc00",
+    "colors_accent_1": "#ffcc00",
+    "colors_accent_2": "#49484f",
+    "colors_accent_3": "#49484f",
+    "colors_banner_text": "#fafafa",
+    "colors_border": "#dddddd",
+    "colors_text": "#49484f",
+    "colors_background_1": "#fafafa",
+    "type_header_font": "roboto_n4",
+    "type_body_font": "roboto_n4",
+    "social_twitter_link": "#",
+    "social_facebook_link": "#",
+    "social_pinterest_link": "#",
+    "social_instagram_link": "#",
+    "social_youtube_link": "#",
+    "social_vimeo_link": "",
+    "checkout_logo_position": "left",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_accent_color": "#ffffff",
+    "checkout_button_color": "#1e1e1e",
+    "sale_badge_color_scheme": "accent-1",
+    "accent_icons": "text",
+    "colors_background_2": "#1b1a1c",
+    "colors_solid_button_labels": "#000000",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "88bfe275-06e4-43d5-97a5-eee285e77ab6": {
+            "type": "announcement",
+            "settings": {
+              "text": "Free Shipping On All Order Over £100 Code : NEW1",
+              "link": "shopify:\/\/collections",
+              "enable_country_selector": true,
+              "enable_language_selector": true,
+              "menu_bar": "header-menu",
+              "bg_color": "#ffffff",
+              "text_color": "#666666"
+            }
+          }
+        },
+        "block_order": [
+          "88bfe275-06e4-43d5-97a5-eee285e77ab6"
+        ],
+        "settings": {
+          "top_banner": true,
+          "banner": "shopify:\/\/shop_images\/KEEP_WARM_THIS_WINTER_8.png"
+        }
+      },
+      "header": {
+        "type": "header",
+        "blocks": {
+          "f2d1d5a0-ce85-443f-9b6a-a8b2bc50b11c": {
+            "type": "service_image",
+            "settings": {
+              "icon": "shopify:\/\/shop_images\/phone.png",
+              "service-subtitle": "<p>0161 706 0487<\/p>",
+              "button_link": "#"
+            }
+          }
+        },
+        "block_order": [
+          "f2d1d5a0-ce85-443f-9b6a-a8b2bc50b11c"
+        ],
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/ShopHeatersLogo.png",
+          "logo_width": 250,
+          "logo_position": "top-center",
+          "show_sidecategory": true,
+          "categories_title": "Shop By Category",
+          "side-categories": "sidebar",
+          "menu": "main-menu",
+          "account-subtitle": "<p>Sign In<br\/>& Join Free<\/p>",
+          "wishlist_title": "Wishlist",
+          "compare_title": "Compare",
+          "bg_color": "#002230",
+          "text_color": "#ffcc00"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "a333c221-3fca-4fe3-afa0-9a49124f1273": {
+            "type": "text",
+            "settings": {
+              "heading": "Contact Us",
+              "address": "Trade Heaters UK, Unit 15a,Summers Road, Liverpool, L3 4BL, United Kingdom",
+              "email_address": "sales@TradeHeatersUK.co.uk",
+              "email": "mailto:tradeheatersuk@gmail.com",
+              "contact_num": "0161 706 0487"
+            }
+          },
+          "98abf57c-2742-4474-a54c-9a22fa700a05": {
+            "type": "link_list",
+            "disabled": true,
+            "settings": {
+              "heading": "Information",
+              "menu": ""
+            }
+          },
+          "b65a0ef2-f918-4cce-bccb-1cb2697943d8": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer-menu"
+            }
+          },
+          "acfd6df7-b690-4684-ba32-37782291ad32": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "heading": "Company Info",
+              "address": "",
+              "email_address": "",
+              "email": "",
+              "contact_num": ""
+            }
+          }
+        },
+        "block_order": [
+          "a333c221-3fca-4fe3-afa0-9a49124f1273",
+          "98abf57c-2742-4474-a54c-9a22fa700a05",
+          "b65a0ef2-f918-4cce-bccb-1cb2697943d8",
+          "acfd6df7-b690-4684-ba32-37782291ad32"
+        ],
+        "settings": {
+          "bg_color": "#002230",
+          "text_color": "#e8e8e8",
+          "app_title": "Download Apps",
+          "app_link_1": "#",
+          "app_link_2": "#",
+          "app_link_3": "#",
+          "payment_enable": true
+        }
+      },
+      "tm-sidebar": {
+        "type": "tm-sidebar",
+        "settings": {
+          "show_sidecategory": true,
+          "categories_title": "Product Categories",
+          "side-categories": "main-menu",
+          "show_blog_sidecategory": true,
+          "blog_categories_title": "Blog menu",
+          "blog-categories": "blog-menu",
+          "enable_filtering": true
+        }
+      },
+      "tm_cms_info": {
+        "type": "tm_cms_info",
+        "blocks": {
+          "36ede7ce-9230-475f-becd-36b042de7725": {
+            "type": "info_image",
+            "settings": {
+              "info-title": "Our Address",
+              "info-subtitle": "12, Lorem Ipsum Amet, Australiya 395"
+            }
+          },
+          "2c3b1cd9-f6ae-45a3-af6e-ced9f4b1a080": {
+            "type": "info_image",
+            "settings": {
+              "info-title": "Call Us Free",
+              "info-subtitle": "(+12) 345 7800 20 \/ 123 6666 789"
+            }
+          },
+          "e75dcab9-7376-4dd5-a866-24ae6c6bb0df": {
+            "type": "info_image",
+            "settings": {
+              "info-title": "Send Email Now",
+              "info-subtitle": "support.information@company.com"
+            }
+          }
+        },
+        "block_order": [
+          "36ede7ce-9230-475f-becd-36b042de7725",
+          "2c3b1cd9-f6ae-45a3-af6e-ced9f4b1a080",
+          "e75dcab9-7376-4dd5-a866-24ae6c6bb0df"
+        ],
+        "settings": {
+          "bg_color": "#7a8757"
+        }
+      },
+      "newsletter": {
+        "type": "newsletter",
+        "blocks": {
+          "335ca43b-0aed-4580-a4d0-159352fa0c10": {
+            "type": "heading",
+            "settings": {
+              "heading": "Subscribe To The Newsletter"
+            }
+          },
+          "45a02dcf-29b3-4454-8ea8-29282ccee236": {
+            "type": "email_form",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "335ca43b-0aed-4580-a4d0-159352fa0c10",
+          "45a02dcf-29b3-4454-8ea8-29282ccee236"
+        ],
+        "settings": {
+          "bg_color": "#002230",
+          "show_social": true
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  }
+}
