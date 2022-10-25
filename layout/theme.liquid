@@ -83,7 +83,7 @@ var _0x5349=['platform','classList','createElement','attributes','No-optimizatio
 	  
      <link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet"> 
+	<link data-href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet"> 
      {%- unless settings.type_header_font.system? -%}
       <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
       {%- endunless -%}
@@ -100,7 +100,7 @@ var _0x5349=['platform','classList','createElement','attributes','No-optimizatio
       {% render 'meta-tags' %}
       {{ 'owl.carousel.css' | asset_url | stylesheet_tag }} 
       {{ 'owl.theme.css' | asset_url | stylesheet_tag }}
-      <link rel="stylesheet" href="{{ 'component-price.css' | asset_url }}" media="print" onload="this.media='all'">
+      <link rel="stylesheet" data-href="{{ 'component-price.css' | asset_url }}" media="print" onload="this.media='all'">
       {{ 'cm-app-styles.css' | asset_url | stylesheet_tag }} <!-- Customer Meta styles, tested on Debut theme -->
       <script src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
       <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
@@ -257,7 +257,7 @@ var _0x5349=['platform','classList','createElement','attributes','No-optimizatio
       background-color: var(--color-base-background-1);
       }
       {% endstyle %}
-      {{ 'base.css' | asset_url | stylesheet_tag }}
+      <link rel="stylesheet" data-href="{{ 'base.css' | asset_url }}">
       {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
       {%- endunless -%}
@@ -265,7 +265,7 @@ var _0x5349=['platform','classList','createElement','attributes','No-optimizatio
       <link rel="preload" as="font" href="{{ settings.type_header_font | font_url }}" type="font/woff2" crossorigin>
       {%- endunless -%}
       {%- if settings.predictive_search_enabled -%}
-      <link rel="stylesheet" href="{{ 'component-predictive-search.css' | asset_url }}" media="print" onload="this.media='all'">
+      <link rel="stylesheet" data-href="{{ 'component-predictive-search.css' | asset_url }}" media="print" onload="this.media='all'">
     {%- endif -%}
       <script>
          document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
@@ -375,11 +375,11 @@ var _0x5349=['platform','classList','createElement','attributes','No-optimizatio
       {% include 'icon-chevron-up' %}
       </a>
      {%- if settings.predictive_search_enabled -%}
-      <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
+      <script type="lazyload2" data-src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
        {% render 'sca-quick-view-template' %}   
      {%- render '__footerhash' -%}
    </body>
 </html>
- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script> 
+ <script type="lazyload2" data-src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script> 
 {% include 'gameball' %}
