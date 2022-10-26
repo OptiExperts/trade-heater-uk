@@ -39,8 +39,8 @@
 .service-icon {
 	display: block !important;
 	background-repeat: no-repeat;
-	width: 32px;
-	height: 32px;
+	width: 150px;
+	height: 90px;
 	float: left;
 	margin: 0 15px 0 0;
 }
