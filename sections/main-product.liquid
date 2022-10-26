@@ -160,18 +160,18 @@
               {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price--large' -%}
             </div>
         </div>
-<!--             {%- form 'product', product, id: 'product-form-installment', class: 'installment caption-large' -%}
+       {%- form 'product', product, id: 'product-form-installment', class: 'installment caption-large' -%}
               <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
               {{ form | payment_terms }}
   {% include 'cm-product-buttons' %}
-            {%- endform -%} -->
+            {%- endform -%}
         
-<!--           {%- when 'description' -%}
+     {%- when 'description' -%}
             {%- if product.description != blank -%}
               <div class="product__description rte">  
                   {{ product.description | strip_html | truncatewords: 50 }}
                 </div>
-            {%- endif -%} -->
+            {%- endif -%}
         
           {%- when 'collapsible_tab' -%}
             <div class="product__accordion accordion">
