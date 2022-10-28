@@ -14,8 +14,8 @@
     "button_background": "#ffcc00",
     "button_background_hover": "#ffcc00",
     "colors_accent_1": "#ffcc00",
-    "colors_accent_2": "#49484f",
-    "colors_accent_3": "#49484f",
+    "colors_accent_2": "#002230",
+    "colors_accent_3": "#1e1e1e",
     "colors_banner_text": "#fafafa",
     "colors_border": "#dddddd",
     "colors_text": "#49484f",
@@ -87,8 +87,8 @@
           "account-subtitle": "<p>Sign In<br\/>& Join Free<\/p>",
           "wishlist_title": "Wishlist",
           "compare_title": "Compare",
-          "bg_color": "#002230",
-          "text_color": "#ffcc00"
+          "bg_color": "#1e1e1e",
+          "text_color": "#ffffff"
         }
       },
       "footer": {
