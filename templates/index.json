@@ -67,28 +67,19 @@
             "button_link": ""
           }
         },
-        "c33a8ec3-5cfe-49d2-908d-575f226efbe7": {
+        "9cdc4f8a-70d0-4084-91bc-dceb79251530": {
           "type": "service_image",
           "settings": {
             "icon": "shopify:\/\/shop_images\/icons8-whatsapp-100.png",
-            "service-title": "WhatApp support",
-            "button_link": "https:\/\/wa.me\/<07736578751>"
-          }
-        },
-        "141ecc60-35ba-49b6-a84b-2c23124ea6cc": {
-          "type": "service_image",
-          "settings": {
-            "icon": "shopify:\/\/shop_images\/icons8-ringer-volume-100.png",
-            "service-title": "Phone Support",
-            "button_link": "shopify:\/\/pages\/contact-us"
+            "service-title": "WhatsApp support",
+            "button_link": ""
           }
         }
       },
       "block_order": [
         "7a6730d1-3b0e-445d-88d3-e6614b136a1e",
         "cf3f56b3-c064-4624-b2b0-6460f38ea241",
-        "c33a8ec3-5cfe-49d2-908d-575f226efbe7",
-        "141ecc60-35ba-49b6-a84b-2c23124ea6cc"
+        "9cdc4f8a-70d0-4084-91bc-dceb79251530"
       ],
       "settings": {
       }
