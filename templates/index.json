@@ -79,7 +79,7 @@
           "type": "service_image",
           "settings": {
             "icon": "shopify:\/\/shop_images\/icons8-ringer-volume-100.png",
-            "service-title": "Excellent Phone Support",
+            "service-title": "Phone Support",
             "button_link": ""
           }
         }
