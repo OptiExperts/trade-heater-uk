@@ -84,6 +84,32 @@
       "settings": {
       }
     },
+    "cb639968-2f4f-453d-bc81-15964ff24857": {
+      "type": "tm_service",
+      "blocks": {
+        "50cd66c4-7acd-4e04-a639-5059f6046384": {
+          "type": "service_image",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/icons8-truck-100.png",
+            "service-title": "Free Shipping over £100",
+            "button_link": "shopify:\/\/policies\/shipping-policy"
+          }
+        },
+        "836e6c8e-7ff4-4f63-bcc3-a962d284046e": {
+          "type": "service_image",
+          "settings": {
+            "service-title": "service title",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "50cd66c4-7acd-4e04-a639-5059f6046384",
+        "836e6c8e-7ff4-4f63-bcc3-a962d284046e"
+      ],
+      "settings": {
+      }
+    },
     "1626172657e8a64879": {
       "type": "tm-subbanners",
       "blocks": {
@@ -122,24 +148,6 @@
       ],
       "settings": {
         "addclass": "one-banner"
-      }
-    },
-    "cb639968-2f4f-453d-bc81-15964ff24857": {
-      "type": "tm_service",
-      "blocks": {
-        "50cd66c4-7acd-4e04-a639-5059f6046384": {
-          "type": "service_image",
-          "settings": {
-            "icon": "shopify:\/\/shop_images\/icons8-truck-100.png",
-            "service-title": "Free Shipping over £100",
-            "button_link": "shopify:\/\/policies\/shipping-policy"
-          }
-        }
-      },
-      "block_order": [
-        "50cd66c4-7acd-4e04-a639-5059f6046384"
-      ],
-      "settings": {
       }
     },
     "1642049895a001e45a": {
@@ -384,8 +392,8 @@
   "order": [
     "1626698440992c0b90",
     "1642049290d388f08e",
-    "1626172657e8a64879",
     "cb639968-2f4f-453d-bc81-15964ff24857",
+    "1626172657e8a64879",
     "1642049895a001e45a",
     "164204962712e23f20",
     "16426820394ed923db",
