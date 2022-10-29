@@ -71,7 +71,7 @@
           "type": "service_image",
           "settings": {
             "icon": "shopify:\/\/shop_images\/icons8-whatsapp-100.png",
-            "service-title": "WhatsApp support",
+            "service-title": "WhatsApp",
             "button_link": ""
           }
         }
