@@ -267,11 +267,11 @@
       },
       "9843833335381241684": {
         "type": "shopify:\/\/apps\/t-selector\/blocks\/app-popup\/c1a83ca5-acd4-4a9b-a216-2ddf85c44c02",
-        "disabled": true,
+        "disabled": false,
         "settings": {
-          "live_preview": true,
+          "live_preview": false,
           "default_option": "b2c",
-          "display_popup": true,
+          "display_popup": false,
           "popup_background": "#49484f",
           "popup_over": "linear-gradient(0deg, rgba(17, 17, 17, 0.5), rgba(17, 17, 17, 0.5) 100%)",
           "heading_size": 28,
