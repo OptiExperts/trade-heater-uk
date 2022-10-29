@@ -102,11 +102,20 @@
             "service-title": "Free & Easy 14 Day Return",
             "button_link": "shopify:\/\/policies\/refund-policy"
           }
+        },
+        "c47da6da-f7a4-49d9-bdf2-e5548d9d7459": {
+          "type": "service_image",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/icons8-whatsapp-100.png",
+            "service-title": "WhatsApp Support",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "50cd66c4-7acd-4e04-a639-5059f6046384",
-        "836e6c8e-7ff4-4f63-bcc3-a962d284046e"
+        "836e6c8e-7ff4-4f63-bcc3-a962d284046e",
+        "c47da6da-f7a4-49d9-bdf2-e5548d9d7459"
       ],
       "settings": {
       }
