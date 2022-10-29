@@ -54,8 +54,8 @@
         "7a6730d1-3b0e-445d-88d3-e6614b136a1e": {
           "type": "service_image",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/free_world_wide_shipping.png",
-            "service-title": "Free Worldwide Shipping",
+            "icon": "shopify:\/\/shop_images\/icons8-secured-letter-30.png",
+            "service-title": "Free Shipping Over £100",
             "button_link": "#"
           }
         },
