@@ -61,7 +61,6 @@
         },
         "cf3f56b3-c064-4624-b2b0-6460f38ea241": {
           "type": "service_image",
-          "disabled": true,
           "settings": {
             "icon": "shopify:\/\/shop_images\/icons8-return-box-100.png",
             "service-title": "Free & Easy 14 Day Return",
