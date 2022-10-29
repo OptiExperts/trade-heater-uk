@@ -270,7 +270,7 @@
         "disabled": false,
         "settings": {
           "live_preview": false,
-          "default_option": "b2c",
+          "default_option": "b2b",
           "display_popup": false,
           "popup_background": "#49484f",
           "popup_over": "linear-gradient(0deg, rgba(17, 17, 17, 0.5), rgba(17, 17, 17, 0.5) 100%)",
