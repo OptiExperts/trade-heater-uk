@@ -48,50 +48,6 @@
       "settings": {
       }
     },
-    "1642049290d388f08e": {
-      "type": "tm_service",
-      "blocks": {
-        "7a6730d1-3b0e-445d-88d3-e6614b136a1e": {
-          "type": "service_image",
-          "settings": {
-            "icon": "shopify:\/\/shop_images\/icons8-truck-100.png",
-            "service-title": "Free Shipping Over £100",
-            "button_link": "#"
-          }
-        },
-        "cf3f56b3-c064-4624-b2b0-6460f38ea241": {
-          "type": "service_image",
-          "settings": {
-            "icon": "shopify:\/\/shop_images\/icons8-return-box-100.png",
-            "service-title": "Free & Easy 14 Day Return",
-            "button_link": ""
-          }
-        },
-        "9cdc4f8a-70d0-4084-91bc-dceb79251530": {
-          "type": "service_image",
-          "settings": {
-            "icon": "shopify:\/\/shop_images\/icons8-whatsapp-100.png",
-            "service-title": "WhatsApp",
-            "button_link": ""
-          }
-        },
-        "a11d65cd-ed75-4954-bd7e-5298b67ab9bb": {
-          "type": "service_image",
-          "settings": {
-            "service-title": "service title",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "7a6730d1-3b0e-445d-88d3-e6614b136a1e",
-        "cf3f56b3-c064-4624-b2b0-6460f38ea241",
-        "9cdc4f8a-70d0-4084-91bc-dceb79251530",
-        "a11d65cd-ed75-4954-bd7e-5298b67ab9bb"
-      ],
-      "settings": {
-      }
-    },
     "cb639968-2f4f-453d-bc81-15964ff24857": {
       "type": "tm_service",
       "blocks": {
@@ -418,7 +374,6 @@
   },
   "order": [
     "1626698440992c0b90",
-    "1642049290d388f08e",
     "cb639968-2f4f-453d-bc81-15964ff24857",
     "1626172657e8a64879",
     "1642049895a001e45a",
