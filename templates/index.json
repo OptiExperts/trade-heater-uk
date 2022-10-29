@@ -98,8 +98,9 @@
         "836e6c8e-7ff4-4f63-bcc3-a962d284046e": {
           "type": "service_image",
           "settings": {
-            "service-title": "service title",
-            "button_link": ""
+            "icon": "shopify:\/\/shop_images\/icons8-return-box-100.png",
+            "service-title": "Free & Easy 14 Day Return",
+            "button_link": "shopify:\/\/policies\/refund-policy"
           }
         }
       },
