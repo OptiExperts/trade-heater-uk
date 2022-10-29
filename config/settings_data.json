@@ -284,11 +284,11 @@
           "inline_helper_size": 12,
           "inline_helper_color": "#ffffff",
           "inline_label_color_active": "#ffcc00",
-          "inline_helper_color_active": "#ffffff",
-          "inline_label_color_mobile": "#8c8c8c",
-          "inline_helper_color_mobile": "#8c8c8c",
-          "inline_label_color_active_mobile": "#121212",
-          "inline_helper_color_active_mobile": "#121212"
+          "inline_helper_color_active": "#ffcc00",
+          "inline_label_color_mobile": "#ffffff",
+          "inline_helper_color_mobile": "#ffffff",
+          "inline_label_color_active_mobile": "#ffcc00",
+          "inline_helper_color_active_mobile": "#ffcc00"
         }
       }
     }
