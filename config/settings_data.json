@@ -231,42 +231,10 @@
         "settings": {
         }
       },
-      "17530695623102652971": {
-        "type": "shopify:\/\/apps\/exemptify\/blocks\/ExemptifyApp\/53648040-92ea-472b-92a5-eb781e92b01b",
-        "disabled": true,
-        "settings": {
-        }
-      },
       "6406956604159796213": {
         "type": "shopify:\/\/apps\/smart-seo\/blocks\/smartseo\/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
         "disabled": false,
         "settings": {
-        }
-      },
-      "9843833335381241684": {
-        "type": "shopify:\/\/apps\/t-selector\/blocks\/app-popup\/c1a83ca5-acd4-4a9b-a216-2ddf85c44c02",
-        "disabled": false,
-        "settings": {
-          "live_preview": false,
-          "default_option": "b2c",
-          "display_popup": true,
-          "popup_background": "#FFFFFF",
-          "popup_over": "linear-gradient(0deg, rgba(17, 17, 17, 0.5), rgba(17, 17, 17, 0.5) 100%)",
-          "heading_size": 28,
-          "heading_color": "#121212",
-          "sub_heading_size": 18,
-          "sub_heading_color": "#8c8c8c",
-          "label_size": 20,
-          "label_color": "",
-          "label_background_color": "",
-          "label_color_hover": "",
-          "label_background_color_hover": "",
-          "helper_size": 12,
-          "helper_color": "#8C8C8C",
-          "price_selector": "span.tax-selector-currency",
-          "taxes_included": false,
-          "display_country_selector": false,
-          "cookie_validity": 1
         }
       },
       "13274296703217438496": {
@@ -295,6 +263,32 @@
           "inline_helper_color_mobile": "#8C8C8C",
           "inline_label_color_active_mobile": "#121212",
           "inline_helper_color_active_mobile": "#121212"
+        }
+      },
+      "9843833335381241684": {
+        "type": "shopify:\/\/apps\/t-selector\/blocks\/app-popup\/c1a83ca5-acd4-4a9b-a216-2ddf85c44c02",
+        "disabled": false,
+        "settings": {
+          "live_preview": true,
+          "default_option": "b2b",
+          "display_popup": true,
+          "popup_background": "#ffffff",
+          "popup_over": "linear-gradient(0deg, rgba(17, 17, 17, 0.5), rgba(17, 17, 17, 0.5) 100%)",
+          "heading_size": 28,
+          "heading_color": "#121212",
+          "sub_heading_size": 18,
+          "sub_heading_color": "#8c8c8c",
+          "label_size": 20,
+          "label_color": "",
+          "label_background_color": "",
+          "label_color_hover": "",
+          "label_background_color_hover": "",
+          "helper_size": 12,
+          "helper_color": "#8c8c8c",
+          "price_selector": "span.tax-selector-currency",
+          "taxes_included": false,
+          "display_country_selector": false,
+          "cookie_validity": 1
         }
       }
     }
