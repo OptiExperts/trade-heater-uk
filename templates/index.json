@@ -70,16 +70,16 @@
         "c33a8ec3-5cfe-49d2-908d-575f226efbe7": {
           "type": "service_image",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/MONEY_BACK.png",
-            "service-title": "Money Back Guarentee",
+            "icon": "shopify:\/\/shop_images\/icons8-whatsapp-100.png",
+            "service-title": "WhatApp support",
             "button_link": ""
           }
         },
         "141ecc60-35ba-49b6-a84b-2c23124ea6cc": {
           "type": "service_image",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/24_hour_support.png",
-            "service-title": "24\/7 Excellent Support",
+            "icon": "shopify:\/\/shop_images\/icons8-ringer-volume-100.png",
+            "service-title": "Excellent Phone Support",
             "button_link": ""
           }
         }
