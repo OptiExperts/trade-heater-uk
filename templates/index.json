@@ -54,7 +54,7 @@
         "7a6730d1-3b0e-445d-88d3-e6614b136a1e": {
           "type": "service_image",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/icons8-secured-letter-30.png",
+            "icon": "shopify:\/\/shop_images\/icons8-truck-100.png",
             "service-title": "Free Shipping Over £100",
             "button_link": "#"
           }
@@ -62,7 +62,7 @@
         "cf3f56b3-c064-4624-b2b0-6460f38ea241": {
           "type": "service_image",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/retun_policy.png",
+            "icon": "shopify:\/\/shop_images\/icons8-return-box-100.png",
             "service-title": "Easy & Free 30 Day Return",
             "button_link": ""
           }
