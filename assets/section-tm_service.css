@@ -25,6 +25,7 @@
 }
 .service.service-3 .service-icon {
 	background-position: center 0;
+	margin: 0px 60px;
 }
 .service.service-3:hover .service-icon {
 	background-position: center -141px;
