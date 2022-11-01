@@ -48,47 +48,47 @@
       "settings": {
       }
     },
-    "1642049290d388f08e": {
+    "cb639968-2f4f-453d-bc81-15964ff24857": {
       "type": "tm_service",
       "blocks": {
-        "7a6730d1-3b0e-445d-88d3-e6614b136a1e": {
+        "50cd66c4-7acd-4e04-a639-5059f6046384": {
           "type": "service_image",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/free_world_wide_shipping.png",
-            "service-title": "Free Worldwide Shipping",
-            "button_link": "#"
+            "icon": "shopify:\/\/shop_images\/icons8-truck-100.png",
+            "service-title": "Free Shipping over £100",
+            "button_link": "shopify:\/\/policies\/shipping-policy"
           }
         },
-        "cf3f56b3-c064-4624-b2b0-6460f38ea241": {
+        "836e6c8e-7ff4-4f63-bcc3-a962d284046e": {
           "type": "service_image",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/retun_policy.png",
-            "service-title": "Easy & Free 30 Day Return",
+            "icon": "shopify:\/\/shop_images\/icons8-return-box-100.png",
+            "service-title": "Free & Easy 14 Day Return",
+            "button_link": "shopify:\/\/policies\/refund-policy"
+          }
+        },
+        "c47da6da-f7a4-49d9-bdf2-e5548d9d7459": {
+          "type": "service_image",
+          "settings": {
+            "icon": "shopify:\/\/shop_images\/icons8-whatsapp-100.png",
+            "service-title": "WhatsApp Support",
             "button_link": ""
           }
         },
-        "c33a8ec3-5cfe-49d2-908d-575f226efbe7": {
+        "cfffbc23-2d61-4c69-9b51-d373291a2b57": {
           "type": "service_image",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/MONEY_BACK.png",
-            "service-title": "Money Back Guarentee",
-            "button_link": ""
-          }
-        },
-        "141ecc60-35ba-49b6-a84b-2c23124ea6cc": {
-          "type": "service_image",
-          "settings": {
-            "icon": "shopify:\/\/shop_images\/24_hour_support.png",
-            "service-title": "24\/7 Excellent Support",
-            "button_link": ""
+            "icon": "shopify:\/\/shop_images\/icons8-ringer-volume-100.png",
+            "service-title": "Phone Support",
+            "button_link": "shopify:\/\/pages\/contact-us"
           }
         }
       },
       "block_order": [
-        "7a6730d1-3b0e-445d-88d3-e6614b136a1e",
-        "cf3f56b3-c064-4624-b2b0-6460f38ea241",
-        "c33a8ec3-5cfe-49d2-908d-575f226efbe7",
-        "141ecc60-35ba-49b6-a84b-2c23124ea6cc"
+        "50cd66c4-7acd-4e04-a639-5059f6046384",
+        "836e6c8e-7ff4-4f63-bcc3-a962d284046e",
+        "c47da6da-f7a4-49d9-bdf2-e5548d9d7459",
+        "cfffbc23-2d61-4c69-9b51-d373291a2b57"
       ],
       "settings": {
       }
@@ -374,7 +374,7 @@
   },
   "order": [
     "1626698440992c0b90",
-    "1642049290d388f08e",
+    "cb639968-2f4f-453d-bc81-15964ff24857",
     "1626172657e8a64879",
     "1642049895a001e45a",
     "164204962712e23f20",

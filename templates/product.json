@@ -1,1 +1,123 @@
-{"sections":{"main":{"type":"main-product","blocks":{"title":{"type":"title","settings":{}},"e244b85d-3540-45a2-82d5-109fdb6179ae":{"type":"rating","settings":{}},"price":{"type":"price","settings":{}},"description":{"type":"description","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"quantity_selector":{"type":"quantity_selector","settings":{}},"ef7f9dfa-75b0-4798-80fb-d21c1535e6c1":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true}},"a2f219df-082d-4591-861f-8d7760e59a02":{"type":"collapsible_tab","settings":{"heading":"Shipping & Returns","content":"<p>Free shipping and returns available on all orders!<br\/>We ship all US domestic orders within <strong>5-10 business days<\/strong>!<\/p>","page":"","icon":"truck"}},"f925313d-91a6-40e1-923a-5f1bc294c779":{"type":"collapsible_tab","settings":{"heading":"Materials","content":"<p>Running Shoes cushions your stride with soft foam to keep you running in comfort. Lightweight knit material wraps your foot in breathable support, while a minimalist design fits in just about anywhere your day takes you.<\/p>","page":"","icon":"leather"}},"6907ed9d-6cfc-42b2-801e-da9311d27b68":{"type":"collapsible_tab","settings":{"heading":"Dimensions","content":"","page":"size-chart","icon":"ruler"}},"af3a8570-166d-467a-8fd7-bd6a12693bdc":{"type":"collapsible_tab","settings":{"heading":"Care Instructions","content":"<p>Use a soft damp cloth and a drop of mild soap to remove any haze. Air dry.<\/p>","page":"","icon":"heart"}},"share":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["title","e244b85d-3540-45a2-82d5-109fdb6179ae","price","description","variant_picker","quantity_selector","ef7f9dfa-75b0-4798-80fb-d21c1535e6c1","a2f219df-082d-4591-861f-8d7760e59a02","f925313d-91a6-40e1-923a-5f1bc294c779","6907ed9d-6cfc-42b2-801e-da9311d27b68","af3a8570-166d-467a-8fd7-bd6a12693bdc","share"],"settings":{"enable_sticky_info":true,"enable_video_looping":true,"description_title":"Description","review_title":"Reviews"}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"You may also like","image_ratio":"adapt","show_secondary_image":true,"add_image_padding":false,"show_rating":true,"show_vendor":false}}},"order":["main","product-recommendations"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "e244b85d-3540-45a2-82d5-109fdb6179ae": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "ef7f9dfa-75b0-4798-80fb-d21c1535e6c1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "a2f219df-082d-4591-861f-8d7760e59a02": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping",
+            "content": "<p>We offer free delivery on all orders over £100 to England, Scotland & Wales (excluding the Scottish Highlands & Islands). <\/p><p><br\/>Due to products getting despatched from multiple distribution centres orders with multiple items may not all arrive at the same time.<\/p><p><br\/>As standard, we offer a kerbside delivery service to your business or residence which does not include the removal of packaging, removal of pallets, assembly or setup.<\/p><p><br\/>We aim to deliver your item within 3-5 working days, if there is likely to be a delay in the dispatch of your order one of our team will contact you. We, unfortunately, don't currently offer international delivery.<\/p>",
+            "page": "",
+            "icon": "truck"
+          }
+        },
+        "f925313d-91a6-40e1-923a-5f1bc294c779": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Returns",
+            "content": "<p>Goods which prove unsuitable may be returned for refund, credit note or exchange if they are returned to us within 14 days of receipt or faulty\/damaged goods must be returned within 30 days of receipt.<\/p>",
+            "page": "",
+            "icon": "return"
+          }
+        },
+        "6907ed9d-6cfc-42b2-801e-da9311d27b68": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Dimensions",
+            "content": "",
+            "page": "size-chart",
+            "icon": "ruler"
+          }
+        },
+        "af3a8570-166d-467a-8fd7-bd6a12693bdc": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care Instructions",
+            "content": "<p>Use a soft damp cloth and a drop of mild soap to remove any haze. Air dry.<\/p>",
+            "page": "",
+            "icon": "heart"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "e244b85d-3540-45a2-82d5-109fdb6179ae",
+        "price",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "ef7f9dfa-75b0-4798-80fb-d21c1535e6c1",
+        "a2f219df-082d-4591-861f-8d7760e59a02",
+        "f925313d-91a6-40e1-923a-5f1bc294c779",
+        "6907ed9d-6cfc-42b2-801e-da9311d27b68",
+        "af3a8570-166d-467a-8fd7-bd6a12693bdc",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "enable_video_looping": true,
+        "description_title": "Description",
+        "review_title": "Reviews"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_rating": true,
+        "show_vendor": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations"
+  ]
+}
