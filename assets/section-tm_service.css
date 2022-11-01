@@ -21,14 +21,14 @@
    margin: 0px 60px;
  }
  .service.service-1:hover .service-icon{
-		background-position: center -140px;
+		background-position: center 0px;
 }
 .service.service-3 .service-icon {
 	background-position: center 0;
 	margin: 0px 60px;
 }
 .service.service-3:hover .service-icon {
-	background-position: center -141px;
+	background-position: center 0px;
 }
 
 
@@ -37,7 +37,7 @@
 	margin: 0px 60px;
 }
  .service.service-2:hover .service-icon, .service.service-4:hover .service-icon {
-	background-position: center -141px;
+	background-position: center 0px;
 }
 .service-icon {
 	display: block !important;
