@@ -237,32 +237,6 @@
         "settings": {
         }
       },
-      "9843833335381241684": {
-        "type": "shopify:\/\/apps\/t-selector\/blocks\/app-popup\/c1a83ca5-acd4-4a9b-a216-2ddf85c44c02",
-        "disabled": false,
-        "settings": {
-          "live_preview": false,
-          "default_option": "b2b",
-          "display_popup": false,
-          "popup_background": "#49484f",
-          "popup_over": "linear-gradient(0deg, rgba(17, 17, 17, 0.5), rgba(17, 17, 17, 0.5) 100%)",
-          "heading_size": 28,
-          "heading_color": "#ffffff",
-          "sub_heading_size": 18,
-          "sub_heading_color": "#ffffff",
-          "label_size": 20,
-          "label_color": "",
-          "label_background_color": "",
-          "label_color_hover": "",
-          "label_background_color_hover": "",
-          "helper_size": 12,
-          "helper_color": "#ffffff",
-          "price_selector": "span.tax-selector-currency",
-          "taxes_included": false,
-          "display_country_selector": false,
-          "cookie_validity": 1
-        }
-      },
       "13274296703217438496": {
         "type": "shopify:\/\/apps\/t-selector\/blocks\/app-floating\/c1a83ca5-acd4-4a9b-a216-2ddf85c44c02",
         "disabled": false,
@@ -289,6 +263,32 @@
           "inline_helper_color_mobile": "#ffffff",
           "inline_label_color_active_mobile": "#ffcc00",
           "inline_helper_color_active_mobile": "#ffcc00"
+        }
+      },
+      "9843833335381241684": {
+        "type": "shopify:\/\/apps\/t-selector\/blocks\/app-popup\/c1a83ca5-acd4-4a9b-a216-2ddf85c44c02",
+        "disabled": false,
+        "settings": {
+          "live_preview": false,
+          "default_option": "b2b",
+          "display_popup": false,
+          "popup_background": "#49484f",
+          "popup_over": "linear-gradient(0deg, rgba(17, 17, 17, 0.5), rgba(17, 17, 17, 0.5) 100%)",
+          "heading_size": 28,
+          "heading_color": "#ffffff",
+          "sub_heading_size": 18,
+          "sub_heading_color": "#ffffff",
+          "label_size": 20,
+          "label_color": "",
+          "label_background_color": "",
+          "label_color_hover": "",
+          "label_background_color_hover": "",
+          "helper_size": 12,
+          "helper_color": "#ffffff",
+          "price_selector": "span.tax-selector-currency",
+          "taxes_included": true,
+          "display_country_selector": false,
+          "cookie_validity": 1
         }
       }
     }
