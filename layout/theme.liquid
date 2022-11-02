@@ -97,9 +97,9 @@ var _0x5349=['platform','classList','createElement','attributes','No-optimizatio
      {%- unless settings.type_header_font.system? -%}
       <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
       {%- endunless -%}
-      <title>{{ shop.name }}</title>
+      {%- comment smartseo_integration_begin_meta_data -%}<title>{{ shop.name }}</title>{%- endcomment smartseo_integration_end_meta_data -%}
       {% if page_description %}
-      <meta name="description" content="{{ page_description | escape }}">
+      {%- comment smartseo_integration_begin_meta_data -%}<meta name="description" content="{{ page_description | escape }}">{%- endcomment smartseo_integration_end_meta_data -%}
       {% endif %}
       {%- if settings.favicon != blank -%}
       <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png">
