@@ -131,18 +131,29 @@
               "heading": "Information",
               "menu": ""
             }
+          },
+          "03403fd0-5d6c-467e-8767-c3804f823876": {
+            "type": "text",
+            "settings": {
+              "heading": "Contact Us",
+              "address": "Trade name: Trade Heaters UK is a company owned by \"Hot Tub Liverpool LTD\" ,  VAT number:  GB382635479  Trade number: 13164303",
+              "email_address": "",
+              "email": "",
+              "contact_num": ""
+            }
           }
         },
         "block_order": [
           "b65a0ef2-f918-4cce-bccb-1cb2697943d8",
           "a333c221-3fca-4fe3-afa0-9a49124f1273",
           "acfd6df7-b690-4684-ba32-37782291ad32",
-          "98abf57c-2742-4474-a54c-9a22fa700a05"
+          "98abf57c-2742-4474-a54c-9a22fa700a05",
+          "03403fd0-5d6c-467e-8767-c3804f823876"
         ],
         "settings": {
           "bg_color": "#002230",
           "text_color": "#e8e8e8",
-          "app_title": "Download Apps",
+          "app_title": "",
           "app_link_1": "#",
           "app_link_2": "#",
           "app_link_3": "#",
