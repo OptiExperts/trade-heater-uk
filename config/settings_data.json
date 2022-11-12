@@ -143,7 +143,7 @@
         "settings": {
           "bg_color": "#002230",
           "text_color": "#e8e8e8",
-          "app_title": "Download Apps",
+          "app_title": "",
           "app_link_1": "#",
           "app_link_2": "#",
           "app_link_3": "#",
