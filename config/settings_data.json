@@ -97,14 +97,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "b65a0ef2-f918-4cce-bccb-1cb2697943d8": {
-            "type": "link_list",
-            "disabled": true,
-            "settings": {
-              "heading": "Useful links",
-              "menu": "footer-menu"
-            }
-          },
           "a333c221-3fca-4fe3-afa0-9a49124f1273": {
             "type": "text",
             "settings": {
@@ -117,6 +109,7 @@
           },
           "acfd6df7-b690-4684-ba32-37782291ad32": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "Opening Hours",
               "address": "Mon-Fri 9am-4pm  Sat 10am-2pm.",
@@ -134,13 +127,29 @@
               "email": "",
               "contact_num": ""
             }
+          },
+          "b65a0ef2-f918-4cce-bccb-1cb2697943d8": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Useful links",
+              "menu": "footer-menu"
+            }
+          },
+          "63e76690-7374-48b4-8eb7-ba09e4c957c2": {
+            "type": "link_list",
+            "disabled": true,
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
-          "b65a0ef2-f918-4cce-bccb-1cb2697943d8",
           "a333c221-3fca-4fe3-afa0-9a49124f1273",
           "acfd6df7-b690-4684-ba32-37782291ad32",
-          "03403fd0-5d6c-467e-8767-c3804f823876"
+          "03403fd0-5d6c-467e-8767-c3804f823876",
+          "b65a0ef2-f918-4cce-bccb-1cb2697943d8",
+          "63e76690-7374-48b4-8eb7-ba09e4c957c2"
         ],
         "settings": {
           "bg_color": "#002230",
