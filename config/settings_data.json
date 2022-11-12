@@ -124,10 +124,9 @@
           },
           "acfd6df7-b690-4684-ba32-37782291ad32": {
             "type": "text",
-            "disabled": true,
             "settings": {
-              "heading": "Company Info",
-              "address": "",
+              "heading": "Opening Hours",
+              "address": "Opening Times:  Mon-Fri 9am-4pm  Sat 10am-2pm. Sun - Appointment Only (Call or email us to book)",
               "email_address": "",
               "email": "",
               "contact_num": ""
@@ -143,7 +142,7 @@
         "settings": {
           "bg_color": "#002230",
           "text_color": "#e8e8e8",
-          "app_title": "",
+          "app_title": "Download Apps",
           "app_link_1": "#",
           "app_link_2": "#",
           "app_link_3": "#",
