@@ -104,16 +104,6 @@
               "menu": "footer-menu"
             }
           },
-          "acfd6df7-b690-4684-ba32-37782291ad32": {
-            "type": "text",
-            "settings": {
-              "heading": "Opening Hours",
-              "address": "Opening Times:  Mon-Fri 9am-4pm  Sat 10am-2pm.",
-              "email_address": "",
-              "email": "",
-              "contact_num": ""
-            }
-          },
           "a333c221-3fca-4fe3-afa0-9a49124f1273": {
             "type": "text",
             "settings": {
@@ -122,6 +112,16 @@
               "email_address": "sales@TradeHeatersUK.co.uk",
               "email": "mailto:tradeheatersuk@gmail.com",
               "contact_num": "0161 706 0487"
+            }
+          },
+          "acfd6df7-b690-4684-ba32-37782291ad32": {
+            "type": "text",
+            "settings": {
+              "heading": "Opening Hours",
+              "address": "Mon-Fri 9am-4pm  Sat 10am-2pm.",
+              "email_address": "",
+              "email": "",
+              "contact_num": ""
             }
           },
           "98abf57c-2742-4474-a54c-9a22fa700a05": {
@@ -135,8 +135,8 @@
         },
         "block_order": [
           "b65a0ef2-f918-4cce-bccb-1cb2697943d8",
-          "acfd6df7-b690-4684-ba32-37782291ad32",
           "a333c221-3fca-4fe3-afa0-9a49124f1273",
+          "acfd6df7-b690-4684-ba32-37782291ad32",
           "98abf57c-2742-4474-a54c-9a22fa700a05"
         ],
         "settings": {
