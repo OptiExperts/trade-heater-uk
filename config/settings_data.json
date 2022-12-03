@@ -248,34 +248,6 @@
         "settings": {
         }
       },
-      "13274296703217438496": {
-        "type": "shopify:\/\/apps\/t-selector\/blocks\/app-floating\/c1a83ca5-acd4-4a9b-a216-2ddf85c44c02",
-        "disabled": false,
-        "settings": {
-          "display_floating": "both",
-          "floating_bg": "#e22120",
-          "b2b_bg": "#6bbc00",
-          "b2c_bg": "#1878b9",
-          "widget_mobile": "bottom-right",
-          "custom_postion_mobile": true,
-          "vertical_mobile": 20,
-          "horizontal_mobile": 20,
-          "widget_desktop": "bottom-left",
-          "custom_postion_desktop": true,
-          "vertical_desktop": 70,
-          "horizontal_desktop": 20,
-          "inline_label_size": 16,
-          "inline_label_color": "#fafafa",
-          "inline_helper_size": 12,
-          "inline_helper_color": "#ffffff",
-          "inline_label_color_active": "#ffcc00",
-          "inline_helper_color_active": "#ffcc00",
-          "inline_label_color_mobile": "#ffffff",
-          "inline_helper_color_mobile": "#ffffff",
-          "inline_label_color_active_mobile": "#ffcc00",
-          "inline_helper_color_active_mobile": "#ffcc00"
-        }
-      },
       "9843833335381241684": {
         "type": "shopify:\/\/apps\/t-selector\/blocks\/app-popup\/c1a83ca5-acd4-4a9b-a216-2ddf85c44c02",
         "disabled": true,
@@ -300,6 +272,34 @@
           "taxes_included": true,
           "display_country_selector": false,
           "cookie_validity": 1
+        }
+      },
+      "13274296703217438496": {
+        "type": "shopify:\/\/apps\/t-selector\/blocks\/app-floating\/c1a83ca5-acd4-4a9b-a216-2ddf85c44c02",
+        "disabled": true,
+        "settings": {
+          "display_floating": "both",
+          "floating_bg": "#e22120",
+          "b2b_bg": "#6bbc00",
+          "b2c_bg": "#1878b9",
+          "widget_mobile": "bottom-right",
+          "custom_postion_mobile": true,
+          "vertical_mobile": 20,
+          "horizontal_mobile": 20,
+          "widget_desktop": "bottom-left",
+          "custom_postion_desktop": true,
+          "vertical_desktop": 70,
+          "horizontal_desktop": 20,
+          "inline_label_size": 16,
+          "inline_label_color": "#fafafa",
+          "inline_helper_size": 12,
+          "inline_helper_color": "#ffffff",
+          "inline_label_color_active": "#ffcc00",
+          "inline_helper_color_active": "#ffcc00",
+          "inline_label_color_mobile": "#ffffff",
+          "inline_helper_color_mobile": "#ffffff",
+          "inline_label_color_active_mobile": "#ffcc00",
+          "inline_helper_color_active_mobile": "#ffcc00"
         }
       }
     }
