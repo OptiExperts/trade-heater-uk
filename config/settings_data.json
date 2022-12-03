@@ -278,7 +278,7 @@
       },
       "9843833335381241684": {
         "type": "shopify:\/\/apps\/t-selector\/blocks\/app-popup\/c1a83ca5-acd4-4a9b-a216-2ddf85c44c02",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "live_preview": false,
           "default_option": "b2b",
