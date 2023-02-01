@@ -199,6 +199,7 @@
     },
     "16426820394ed923db": {
       "type": "special-collection",
+      "disabled": true,
       "settings": {
         "title": "Grab This Months Best Deals",
         "collection": "patio-heaters",
