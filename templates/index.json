@@ -119,7 +119,7 @@
           "settings": {
             "subbanner": "shopify:\/\/shop_images\/Untitled_design_96.png",
             "custom_liquid": "<div class='cms-banner-subtitle-three'>Portable<br>air Con<\/div>",
-            "button_link": "shopify:\/\/collections\/patio-heaters",
+            "button_link": "shopify:\/\/collections\/air-con",
             "button_label": "Shop Now"
           }
         }
