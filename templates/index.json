@@ -11,8 +11,8 @@
             "subheading": "Portable Air Con",
             "button_label": "SHOP NOW",
             "button_link": "shopify:\/\/collections\/portable-air-con",
-            "button_bg_color": "#2959C2",
-            "button_text_color": "#FFFFFF"
+            "button_bg_color": "#2959c2",
+            "button_text_color": "#ffffff"
           }
         },
         "1626698440992c0b90-0": {
@@ -59,8 +59,8 @@
             "subheading": "Shop Best Skin Kit Makeup",
             "button_label": "",
             "button_link": "",
-            "button_bg_color": "#2959C2",
-            "button_text_color": "#FFFFFF"
+            "button_bg_color": "#2959c2",
+            "button_text_color": "#ffffff"
           }
         }
       },
@@ -302,8 +302,8 @@
     "1641269256184e473d": {
       "type": "featured-collection",
       "settings": {
-        "title": "Gas heaters",
-        "collection": "gas-heaters",
+        "title": "Portable Air Con",
+        "collection": "air-con",
         "products_to_show": 12,
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
