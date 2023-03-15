@@ -117,8 +117,8 @@
         "55a914d5-7f95-4ecf-9005-1e33252987aa": {
           "type": "image",
           "settings": {
-            "subbanner": "shopify:\/\/shop_images\/3_6f5e2d64-31c0-4fbb-a759-89125455f04e.png",
-            "custom_liquid": "<div class='cms-banner-subtitle-three'>Patio<br>Heaters<\/div>",
+            "subbanner": "shopify:\/\/shop_images\/Untitled_design_96.png",
+            "custom_liquid": "<div class='cms-banner-subtitle-three'>Portable<br>air Con<\/div>",
             "button_link": "shopify:\/\/collections\/patio-heaters",
             "button_label": "Shop Now"
           }
