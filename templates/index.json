@@ -38,12 +38,25 @@
             "button_bg_color": "#ffc43b",
             "button_text_color": "#49484f"
           }
+        },
+        "e5c41ed1-95b8-4f73-bede-aa32f803f2bc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_98.png",
+            "slide_title": "Hottest Beauty Trends",
+            "subheading": "Shop Best Skin Kit Makeup",
+            "button_label": "",
+            "button_link": "",
+            "button_bg_color": "#2959C2",
+            "button_text_color": "#FFFFFF"
+          }
         }
       },
       "block_order": [
         "1626698440992c0b90-0",
         "1626698440992c0b90-1",
-        "8a5abee0-82f4-4705-b5eb-fde5b33a7b65"
+        "8a5abee0-82f4-4705-b5eb-fde5b33a7b65",
+        "e5c41ed1-95b8-4f73-bede-aa32f803f2bc"
       ],
       "settings": {
       }
