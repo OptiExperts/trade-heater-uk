@@ -133,6 +133,36 @@
         "addclass": "one-banner"
       }
     },
+    "164204962712e23f20": {
+      "type": "tm-subbanners",
+      "blocks": {
+        "b68a3b83-df48-4d13-939b-7931717c9954": {
+          "type": "image",
+          "settings": {
+            "subbanner": "shopify:\/\/shop_images\/Untitled_design_33.png",
+            "custom_liquid": "<div class='cms-banner-title-three'><\/div><div class='cms-banner-subtitle-three'>Panel<br>& Heaters<\/div>",
+            "button_link": "shopify:\/\/collections\/panel-heaters",
+            "button_label": "Shop Now"
+          }
+        },
+        "21558fce-169f-4c35-8f60-75fa3046fa54": {
+          "type": "image",
+          "settings": {
+            "subbanner": "shopify:\/\/shop_images\/Untitled_design_34.png",
+            "custom_liquid": "<div class='cms-banner-title-three'><\/div><div class='cms-banner-subtitle-three'>Outdoor<br>Heaters<\/div>",
+            "button_link": "shopify:\/\/collections\/outdoor-heaters",
+            "button_label": "Shop Now"
+          }
+        }
+      },
+      "block_order": [
+        "b68a3b83-df48-4d13-939b-7931717c9954",
+        "21558fce-169f-4c35-8f60-75fa3046fa54"
+      ],
+      "settings": {
+        "addclass": "Two-banner"
+      }
+    },
     "1642049895a001e45a": {
       "type": "tm-tab_collection",
       "blocks": {
@@ -175,38 +205,9 @@
         "show_rating": true
       }
     },
-    "164204962712e23f20": {
-      "type": "tm-subbanners",
-      "blocks": {
-        "b68a3b83-df48-4d13-939b-7931717c9954": {
-          "type": "image",
-          "settings": {
-            "subbanner": "shopify:\/\/shop_images\/Untitled_design_33.png",
-            "custom_liquid": "<div class='cms-banner-title-three'><\/div><div class='cms-banner-subtitle-three'>Panel<br>& Heaters<\/div>",
-            "button_link": "shopify:\/\/collections\/panel-heaters",
-            "button_label": "Shop Now"
-          }
-        },
-        "21558fce-169f-4c35-8f60-75fa3046fa54": {
-          "type": "image",
-          "settings": {
-            "subbanner": "shopify:\/\/shop_images\/Untitled_design_34.png",
-            "custom_liquid": "<div class='cms-banner-title-three'><\/div><div class='cms-banner-subtitle-three'>Outdoor<br>Heaters<\/div>",
-            "button_link": "shopify:\/\/collections\/outdoor-heaters",
-            "button_label": "Shop Now"
-          }
-        }
-      },
-      "block_order": [
-        "b68a3b83-df48-4d13-939b-7931717c9954",
-        "21558fce-169f-4c35-8f60-75fa3046fa54"
-      ],
-      "settings": {
-        "addclass": "Two-banner"
-      }
-    },
     "fa6f67f7-0a85-487a-9969-7de832c6f7a4": {
       "type": "newsletter",
+      "disabled": true,
       "blocks": {
         "template--15888171630769__fa6f67f7-0a85-487a-9969-7de832c6f7a4-167887268294603a08-0": {
           "type": "heading",
@@ -233,7 +234,7 @@
         "template--15888171630769__fa6f67f7-0a85-487a-9969-7de832c6f7a4-167887268294603a08-2"
       ],
       "settings": {
-        "bg_color": "#000",
+        "bg_color": "#000000",
         "show_social": true
       }
     },
@@ -417,8 +418,8 @@
     "1626698440992c0b90",
     "cb639968-2f4f-453d-bc81-15964ff24857",
     "1626172657e8a64879",
-    "1642049895a001e45a",
     "164204962712e23f20",
+    "1642049895a001e45a",
     "fa6f67f7-0a85-487a-9969-7de832c6f7a4",
     "16426820394ed923db",
     "1642499781e3765f95",
