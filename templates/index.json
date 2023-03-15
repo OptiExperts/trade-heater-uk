@@ -156,12 +156,20 @@
             "title2": "Commercial Heaters",
             "collection": "commercial-heaters"
           }
+        },
+        "e260ef21-e0e2-4e43-a0a2-3da2c8f60a39": {
+          "type": "grid",
+          "settings": {
+            "title2": "Featured collection",
+            "collection": "air-con"
+          }
         }
       },
       "block_order": [
         "b39999f0-571b-420c-9b73-7076ec567587",
         "abeecb49-dd4b-4b93-96d3-4db9f6d15caf",
-        "3a266146-a541-4abe-a744-4c93d842e000"
+        "3a266146-a541-4abe-a744-4c93d842e000",
+        "e260ef21-e0e2-4e43-a0a2-3da2c8f60a39"
       ],
       "settings": {
         "show_rating": true
