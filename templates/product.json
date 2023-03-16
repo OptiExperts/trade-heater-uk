@@ -60,6 +60,7 @@
         },
         "6907ed9d-6cfc-42b2-801e-da9311d27b68": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Dimensions",
             "content": "",
@@ -69,6 +70,7 @@
         },
         "af3a8570-166d-467a-8fd7-bd6a12693bdc": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Care Instructions",
             "content": "<p>Use a soft damp cloth and a drop of mild soap to remove any haze. Air dry.<\/p>",
