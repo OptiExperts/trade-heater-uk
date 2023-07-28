@@ -44,7 +44,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Shipping",
-            "content": "<p>We offer free delivery on all orders over £100 to England, Scotland & Wales (excluding the Scottish Highlands & Islands). <\/p><p><br\/>Due to products getting despatched from multiple distribution centres orders with multiple items may not all arrive at the same time.<\/p><p><br\/>As standard, we offer a kerbside delivery service to your business or residence which does not include the removal of packaging, removal of pallets, assembly or setup.<\/p><p><br\/>We aim to deliver your item within 3-5 working days, if there is likely to be a delay in the dispatch of your order one of our team will contact you. We, unfortunately, don't currently offer international delivery.<\/p>",
+            "content": "<p>We calculate shipping on checkout.<\/p><p><br\/>Due to products getting despatched from multiple distribution centres orders with multiple items may not all arrive at the same time.<\/p><p><br\/>As standard, we offer a kerbside delivery service to your business or residence which does not include the removal of packaging, removal of pallets, assembly or setup.<\/p><p><br\/>We aim to deliver your item within 3-5 working days, if there is likely to be a delay in the dispatch of your order one of our team will contact you. We, unfortunately, don't currently offer international delivery.<\/p>",
             "page": "",
             "icon": "truck"
           }
