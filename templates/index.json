@@ -81,7 +81,7 @@
           "type": "service_image",
           "settings": {
             "icon": "shopify:\/\/shop_images\/icons8-truck-100.png",
-            "service-title": "Free Shipping over £100",
+            "service-title": "Fast Shipping",
             "button_link": "shopify:\/\/policies\/shipping-policy"
           }
         },
