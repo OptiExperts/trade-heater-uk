@@ -45,6 +45,7 @@
         "blocks": {
           "88bfe275-06e4-43d5-97a5-eee285e77ab6": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Free Shipping On All Order Over £100 Code : NEW1",
               "link": "shopify:\/\/collections",
