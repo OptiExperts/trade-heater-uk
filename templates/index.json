@@ -89,7 +89,7 @@
           "type": "service_image",
           "settings": {
             "icon": "shopify:\/\/shop_images\/icons8-return-box-100.png",
-            "service-title": "Free & Easy 14 Day Return",
+            "service-title": "14 Day Returns",
             "button_link": "shopify:\/\/policies\/refund-policy"
           }
         },
@@ -203,7 +203,6 @@
     },
     "fa6f67f7-0a85-487a-9969-7de832c6f7a4": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "template--15888171630769__fa6f67f7-0a85-487a-9969-7de832c6f7a4-167887268294603a08-0": {
           "type": "heading",
@@ -229,6 +228,7 @@
         "template--15888171630769__fa6f67f7-0a85-487a-9969-7de832c6f7a4-167887268294603a08-1",
         "template--15888171630769__fa6f67f7-0a85-487a-9969-7de832c6f7a4-167887268294603a08-2"
       ],
+      "disabled": true,
       "settings": {
         "bg_color": "#000000",
         "show_social": true
@@ -344,7 +344,6 @@
     },
     "1626176787d5514a31": {
       "type": "Tm-logo-bar",
-      "disabled": true,
       "blocks": {
         "1626176787d5514a31-2": {
           "type": "logo_image",
@@ -389,6 +388,7 @@
         "1626176787d5514a31-1",
         "744ce21a-d212-490b-8181-2e4369c4965c"
       ],
+      "disabled": true,
       "settings": {
       }
     },
