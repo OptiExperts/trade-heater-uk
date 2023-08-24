@@ -302,8 +302,8 @@
     "1641269256184e473d": {
       "type": "featured-collection",
       "settings": {
-        "title": "Portable Air Con",
-        "collection": "air-con",
+        "title": "Infrared Heaters",
+        "collection": "heater-sale",
         "products_to_show": 12,
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
