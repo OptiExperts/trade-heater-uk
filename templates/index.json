@@ -3,28 +3,16 @@
     "1626698440992c0b90": {
       "type": "tm-slideshow",
       "blocks": {
-        "e5c41ed1-95b8-4f73-bede-aa32f803f2bc": {
+        "8a5abee0-82f4-4705-b5eb-fde5b33a7b65": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_1138_x_440px.png",
-            "slide_title": "Keep Cool This Summer!",
-            "subheading": "Portable Air Con",
-            "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/portable-air-con",
-            "button_bg_color": "#2959c2",
-            "button_text_color": "#ffffff"
-          }
-        },
-        "1626698440992c0b90-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_28.png",
-            "slide_title": "Free delivery on all orders over £100",
-            "subheading": "FREE SPEEDY DELIVERY!",
+            "image": "shopify:\/\/shop_images\/Untitled_design_32.png",
+            "slide_title": "Heat your home for less this winter",
+            "subheading": "Storage Heaters",
             "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections",
-            "button_bg_color": "#f7ba00",
-            "button_text_color": "#002230"
+            "button_link": "shopify:\/\/collections\/home-heaters",
+            "button_bg_color": "#ffc43b",
+            "button_text_color": "#49484f"
           }
         },
         "1626698440992c0b90-1": {
@@ -39,16 +27,29 @@
             "button_text_color": "#002230"
           }
         },
-        "8a5abee0-82f4-4705-b5eb-fde5b33a7b65": {
+        "1626698440992c0b90-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_32.png",
-            "slide_title": "Heat your home for less this winter",
-            "subheading": "Storage Heaters",
+            "image": "shopify:\/\/shop_images\/Untitled_design_28.png",
+            "slide_title": "Free delivery on all orders over £100",
+            "subheading": "FREE SPEEDY DELIVERY!",
             "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/home-heaters",
-            "button_bg_color": "#ffc43b",
-            "button_text_color": "#49484f"
+            "button_link": "shopify:\/\/collections",
+            "button_bg_color": "#f7ba00",
+            "button_text_color": "#002230"
+          }
+        },
+        "e5c41ed1-95b8-4f73-bede-aa32f803f2bc": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_1138_x_440px.png",
+            "slide_title": "Keep Cool This Summer!",
+            "subheading": "Portable Air Con",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/portable-air-con",
+            "button_bg_color": "#2959c2",
+            "button_text_color": "#ffffff"
           }
         },
         "13321f9f-762d-468a-8287-b7e135493b13": {
@@ -65,10 +66,10 @@
         }
       },
       "block_order": [
-        "e5c41ed1-95b8-4f73-bede-aa32f803f2bc",
-        "1626698440992c0b90-0",
-        "1626698440992c0b90-1",
         "8a5abee0-82f4-4705-b5eb-fde5b33a7b65",
+        "1626698440992c0b90-1",
+        "1626698440992c0b90-0",
+        "e5c41ed1-95b8-4f73-bede-aa32f803f2bc",
         "13321f9f-762d-468a-8287-b7e135493b13"
       ],
       "settings": {
