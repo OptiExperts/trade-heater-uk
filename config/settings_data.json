@@ -2,7 +2,7 @@
   "current": {
     "rating_filled": "#ffcc00",
     "Hideshowbar": true,
-    "hidepreloader": false,
+    "hidepreloader": true,
     "spinner": "shopify:\/\/shop_images\/Comets-1s-200px.gif",
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": true,
