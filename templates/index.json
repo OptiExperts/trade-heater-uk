@@ -198,6 +198,7 @@
         "3a266146-a541-4abe-a744-4c93d842e000",
         "e260ef21-e0e2-4e43-a0a2-3da2c8f60a39"
       ],
+      "disabled": true,
       "settings": {
         "show_rating": true
       }
@@ -233,20 +234,6 @@
       "settings": {
         "bg_color": "#000000",
         "show_social": true
-      }
-    },
-    "16426820394ed923db": {
-      "type": "special-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Grab This Months Best Deals",
-        "collection": "patio-heaters",
-        "products_to_show": 12,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_rating": true,
-        "show_vendor": false
       }
     },
     "1642499781e3765f95": {
@@ -307,7 +294,7 @@
         "collection": "heater-sale",
         "products_to_show": 3,
         "swipe_on_mobile": true,
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "show_secondary_image": false,
         "show_rating": true,
         "show_vendor": false
@@ -447,7 +434,6 @@
     "1626172657e8a64879",
     "1642049895a001e45a",
     "fa6f67f7-0a85-487a-9969-7de832c6f7a4",
-    "16426820394ed923db",
     "1642499781e3765f95",
     "164204962712e23f20",
     "1641269256184e473d",
