@@ -46,9 +46,8 @@
         "blocks": {
           "88bfe275-06e4-43d5-97a5-eee285e77ab6": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Free Shipping On All Order Over £100 Code : NEW1",
+              "text": "",
               "link": "shopify:\/\/collections",
               "enable_country_selector": true,
               "enable_language_selector": true,
@@ -171,7 +170,7 @@
           "side-categories": "main-menu",
           "show_blog_sidecategory": true,
           "blog_categories_title": "Blog menu",
-          "blog-categories": "blog-menu",
+          "blog-categories": "",
           "enable_filtering": true
         }
       },
